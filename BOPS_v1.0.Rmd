@@ -13,7 +13,7 @@ editor_options:
 rm(list = ls())
 
 # Set the directory
-setwd("C:/Users/mohdh/Documents/MSBA/Fall 2018/OMIS 2392/Projects/BOPS")
+setwd()  # Enter working directory
 
 # Install packages
 #install.packages("ggeffects")
